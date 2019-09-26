@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phiechaep.jankunkler.de/sitemap.xml
